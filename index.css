@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container1 {
+    background-image: url("https://wallpaperaccess.com/full/8183926.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.redd {
+    color: red;
+    font-size: 22px;
+}
+
+.time {
+    color: #f74f25;
+}
+
+.card1 {
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    text-align: center;
+    padding: 13px;
+    background-color: #ffffff;
+
+}
+
+.card1-head {
+    font-size: 31px;
+    font-family: "Bree Serif";
+    color: #f19116;
+}
+
+.card1-headx {
+    font-size: 27px;
+    font-family: "Bree Serif";
+    color: #f19116;
+}
+
+.card1-para {
+    font-size: 20px;
+    font-family: "Bree Serif";
+    color: #7b8794;
+}
+
+.hi {
+    color: white;
+    font-size: 20px;
+    font-family: "Georgia";
+}
+
+.button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 7px;
+    border-width: 0px;
+    padding: 9px;
+    width: 167px;
+    font-size: 20px;
+}
+
+
+.bg-container2 {
+    background-color: #222222;
+    height: 114vh;
+    background-size: cover;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    padding-left: 22px;
+}
+
+.bg-container3 {
+    background-color: #222222;
+    height: 79vh;
+    background-size: cover;
+    padding-right: 12px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    padding-left: 170px;
+}
+
+.mini-card {
+    background-color: #ffffff;
+    border-radius: 16px;
+    margin: 8px;
+}
+
+.pad {
+    padding: 9px;
+}
+
+.mini-card-head {
+    font-size: 27px;
+    font-weight: bold;
+    font-family: "Bree Serif";
+    color: #0f0e46;
+}
+
+.mini-card-para {
+    font-size: 20px;
+    font-family: "Bree Serif";
+    color: #6c6b70;
+}
+
+.img {
+    height: 159px;
+    width: 145px;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.img9 {
+    height: 117px;
+    width: 158px;
+    border-top-left-radius: 13px;
+    border-bottom-left-radius: 14px;
+}
+
+.img2 {
+    height: 68vh;
+    width: 99vw;
+    background-size: cover;
+    border-radius: 8px;
+
+}
+
+.cen {
+    text-align: center;
+}
+
+.color1 {
+
+    background-color: white;
+}
+
+.mini-card-para1 {
+    font-size: 22px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-weight: normal;
+}
+
+.button1 {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 7px;
+    border-width: 0px;
+    padding: 9px;
+    width: 140px;
+    margin: 20px;
+    font-size: 21px;
+}
+
+.img3 {
+    height: 32px;
+    width: 27px;
+    padding: 3px;
+}
+
+.half {
+    height: 640px;
+}
+
+.bg-containerx {
+    background-image: url("https://www.chetu.com/img/payments/payments-main/sliderbg/payments-banner-1.jpg");
+    padding: 8px;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.cen {
+    text-align: center;
+}
+
+.a {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Trebuchet MS";
+}
+
+.c {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Verdana";
+}
+
+.headx {
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: bold;
+    background-color: #eb9617;
+    width: 275px;
+    border-radius: 5px;
+    padding: 8.4px;
+
+
+}
+
+.headx1 {
+
+    color: black;
+
+    font-size: 39px;
+    font-family: "Georgia";
+    font-weight: bold;
+}
+
+.headx2 {
+    text-align: center;
+    color: black;
+
+    font-size: 45px;
+    font-family: "Georgia";
+    font-weight: bold;
+}
+
+.pay {
+    font-size: 25px;
+    color: black;
+    font-family: "Georgia";
+    margin-top: 3px;
+}
+
+.last {
+    margin-left: 16px;
+}
+
+.xyz {
+    height: 3.5px;
+    background-color: black;
+}
+
+.login {
+    margin-bottom: 58vh;
+    margin-right: 22px;
+    font-size: 24px;
+    height: 46px;
+    width: 162px;
+    font-weight: bold;
+    background-image: linear-gradient(to right, #f07800, #ffa01c);
+    border-style: solid;
+    border-radius: 9px;
+    border-width: 0.2px;
+    border-color: white;
+    color: #f3f7cb;
+}
+
+.loginx {
+
+    font-size: 18px;
+    height: 48px;
+    width: 210px;
+    background-image: linear-gradient(to right, #0ef06d, #00cf26);
+    border-style: solid;
+    border-radius: 9px;
+    border-width: 0.05px;
+    font-weight: bold;
+    border-color: #f3f7cb;
+    color: white;
+    box-shadow: 2px 2px 25px #918a8b;
+}
+
+.loginy {
+    box-shadow: 3px 3px 30px #b8b0b1;
+    font-size: 18px;
+    font-weight: bold;
+    height: 48px;
+    width: 230px;
+    background-image: linear-gradient(to right, #f7485c, #c4041b);
+    border-style: solid;
+    border-radius: 9px;
+    border-width: 0.1px;
+    border-color: #f3f7cb;
+    color: white;
+}
+
+.but {
+    background-color: #f08902;
+    color: #ffffff;
+    font-size: 24px;
+    border-radius: 14.5px;
+    border-width: 0px;
+    padding: 7px;
+    width: 189px;
+    margin: 20px;
+}
+
+.imgx {
+    margin-left: 29px;
+    margin-right: 29px;
+    width: 93px;
+    height: 71px;
+}
+
+.imgy {
+    box-shadow: 0.2px 0.2px 13px #fcc888;
+}
+
+.carouse {
+
+    width: 93%;
+    height: 74vh;
+
+}
